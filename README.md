@@ -2,6 +2,7 @@
 
 # Test commit 
 # manikanatreddy gade
+# hi this is portfoilo website
 A responsive developer portfolio built with React, Vite, CSS, and Lucide icons.
 
 ## Features
